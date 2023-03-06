@@ -2,4 +2,8 @@ hello, practicing working in a team
 
 test1
 
+<<<<<<< HEAD
 test2
+=======
+test2
+>>>>>>> b86e28a8644ff523c4a1b13323b17565e3a3493e
